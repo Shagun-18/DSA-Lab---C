@@ -1,3 +1,4 @@
+//WAP to insert an element in a sorted array.
 #include <stdio.h>
 int main() {
     int arr[20], n, i, x, pos;
@@ -23,3 +24,4 @@ int main() {
 
     return 0;
 }
+
