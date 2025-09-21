@@ -1,3 +1,4 @@
+//WAP to search an element in an array of 10 elements. (Linear Search)
 #include <stdio.h>
 
 int main() {
@@ -28,3 +29,4 @@ int main() {
 
     return 0;
 }
+
