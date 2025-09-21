@@ -1,3 +1,4 @@
+//WAP to merge two sorted arrays into a single sorted array
 #include <stdio.h>
 int main() {
     int a[20], b[20], c[40];
@@ -26,3 +27,4 @@ int main() {
 
     return 0;
 }
+
